@@ -127,7 +127,10 @@ img
         height: 30%;
         border-radius: 6px;
     }
-
+    .Cards
+    {
+        margin-bottom: 1vh;
+    }
     .Nombre
     {
         margin-bottom: 0px;
